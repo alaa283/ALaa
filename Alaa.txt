@@ -1,0 +1,1 @@
+A pull request is a method of submitting contributions to an open development project.
